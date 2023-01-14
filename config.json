@@ -1,19 +1,19 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.my.id",
+    "ownerNumber": ["6289653436302@s.whatsapp.net","6288210178332@s.whatsapp.net"],
+    "ownerName": "Rainy",
+    "instagram" : "",
+    "botName": "Rainy_MD ",
+    "footer": "Rainy",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
     "BotKey": "Apikey lu",
     "audio_di_bagian_menu": "./menu.mp3",
-    "auto_welcomeMsg": false,
-    "auto_leaveMsg": false, 
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
     "antiViewOnce": true,
     "antiDelete": true,
-    "autobio": false,
+    "autobio": true,
     "anticall": true,
     "autorespond": false,
     "autoblok212": true,
@@ -22,6 +22,6 @@
     "limitCount": 25,
     "gcount": {
         "prem": 1000,
-        "user": 15
+        "user": 100
     }
 }
